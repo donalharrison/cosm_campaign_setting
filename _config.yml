@@ -5,6 +5,7 @@ author: DrD00n
 markdown: kramdown
 
 theme: minima
+  skin: dark
 
 minima:
   skin: dark
