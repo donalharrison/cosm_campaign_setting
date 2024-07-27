@@ -6,3 +6,4 @@ markdown: kramdown
 
 remote_theme: just-the-docs/just-the-docs
 
+color_scheme: cosm
