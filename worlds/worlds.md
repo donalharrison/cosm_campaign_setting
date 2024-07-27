@@ -6,7 +6,7 @@ has_children: true
 nav_order: 1
 ---
 
-# [Aerdth] (/cosm_campaign_setting/worlds/aerdth/)
+# [Aerdth](/cosm_campaign_setting/worlds/aerdth/)
 Planare Materia Prinicipa, Aerdth is the prime material world of the Cosm.  Thriving with life of all kinds and rich the magic, Aerdth is a focal point of the much Cosm's movements.
 
 # Sideria
