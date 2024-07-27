@@ -4,7 +4,5 @@ author: DrD00n
 
 markdown: kramdown
 
-remote_theme: jekyll/minima
+remote_theme: just-the-docs/just-the-docs
 
-minima:
-  skin: dark
