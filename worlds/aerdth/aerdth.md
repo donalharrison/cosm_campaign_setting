@@ -2,7 +2,7 @@
 layout: page
 title: Aerdth
 permalink: /worlds/aerdth/
-parent: Worlds
+parent: Worlds Known
 has_children: true
 nav_order: 1
 ---
