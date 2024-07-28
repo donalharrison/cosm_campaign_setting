@@ -1,3 +1,13 @@
+---
+layout: page
+title: Galimas
+permalink: /worlds/aerdth/galimas/factions
+grand_parent: Aerdth
+parent: Galimas
+has_children: False
+nav_order: 3
+---
+
 # Imperial Legions of Galimas
 The Galimassian military is divided into four service branches, each focused on a different role and domain.  Known as the Talons of the Storm Crow, each branch is honed rigorously to accomplish unparalleled military operations and uphold the Empire's interests both domestic and foreign.  Each Talon contain multiple legions that maintain deepr specialization, providing Galimas with a wide array of capabilities to deploy against any threat.
 
@@ -6,13 +16,14 @@ The primary fighting forces charged with conducting land operations.  The First 
 
 ### Legions of the First Talon
 
-#### **Legion of the Iron Shield**
+#### **The Mura Encerise**
+##### The Redguard
 - **Expertise:** Heavy Infantry and Defensive Warfare
-- **Renown:** The Iron Shields are the backbone of the Imperial Legions, famed for their unbreakable shield walls and indomitable spirit. They excel in holding strategic positions and protecting the empire's borders.
+- **Renown:** The Redguard are the backbone of the Imperial Legions, famed for their unbreakable shield walls and indomitable spirit. They excel in holding strategic positions and protecting the empire's borders.
 - **Symbol:** A black shield with a silver border on a crimson field
 - **Commander:** General Borin Stonehelm, a stalwart leader with unmatched resilience and tactical acumen.
 
-#### **Legion of the Silver Hawk**
+#### **The Raptors of Farran**
 - **Expertise:** Reconnaissance and Skirmishing
 - **Renown:** Known for their exceptional agility and speed, the Silver Hawks are masters of scouting and guerrilla tactics. They are often deployed ahead of the main force to gather intelligence and harass enemy lines.
 - **Symbol:** A silver hawk in flight on a dark green field
@@ -58,10 +69,10 @@ The naval forces of Galimas, inheriting the seafaring tradition of the sailors o
 
 ### Legions of the Fourth Talon
 
-#### **Legion of the Obsidian Blade**
+#### **The Cinder Kriss**
 - **Expertise:** Special Operations and Night Warfare
 - **Renown:** Specializing in covert operations and sabotage, the Obsidian Blades are the empire's shadow warriors. They are skilled in infiltration, assassination, and psychological warfare, striking fear into the hearts of their enemies.
-- **Symbol:** A black dagger on a dark purple field
+- **Symbol:** A black kriss dagger with a red core on a sable field
 - **Commander:** General Darius Nyx, a mysterious and enigmatic leader with a reputation for cunning and ruthlessness.
 
 
