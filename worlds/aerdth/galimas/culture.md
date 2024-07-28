@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Galimas
+title: Culture
 permalink: /worlds/aerdth/galimas/culture
 grand_parent: Aerdth
 parent: Galimas
@@ -10,6 +10,9 @@ nav_order: 2
 
 # Note
 The section is still in-progress. . .
+
+## Religion
+Worhsip in Galimas is focused on the Celestial bodies of Aerdth and its Axiom Worlds, along with heroes of the Empire that are posthumously exalted as demigods.
 
 ## Deliberations of the Second Age of Galimas
 #### Principles of the Stormcrow & its Citizens

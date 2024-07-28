@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Galimas
+title: People (NPCs)
 permalink: /worlds/aerdth/galimas/people
 grand_parent: Aerdth
 parent: Galimas

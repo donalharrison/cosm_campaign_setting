@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Galimas
+title: Regions
 permalink: /worlds/aerdth/galimas/regions/
 grand_parent: Aerdth
 parent: Galimas

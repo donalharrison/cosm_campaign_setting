@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Galimas
+title: Factions
 permalink: /worlds/aerdth/galimas/factions
 grand_parent: Aerdth
 parent: Galimas
