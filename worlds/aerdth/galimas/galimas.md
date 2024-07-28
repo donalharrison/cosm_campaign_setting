@@ -2,7 +2,7 @@
 layout: page
 title: Galimas
 permalink: /worlds/aerdth/galimas/
-grand_parent: Worlds
+grand_parent: Worlds Known
 parent: Aerdth
 has_children: true
 nav_order: 1
