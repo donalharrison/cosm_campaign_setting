@@ -1,3 +1,12 @@
+---
+layout: page
+title: Culture
+permalink: /worlds/aerdth/galimas/species
+grand_parent: Aerdth
+parent: Galimas
+has_children: False
+nav_exclude: True
+---
 ### Species and Their Communities in Galimas
 
 #### **Dwarves**

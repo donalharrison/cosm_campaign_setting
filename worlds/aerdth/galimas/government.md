@@ -1,4 +1,12 @@
-
+---
+layout: page
+title: Culture
+permalink: /worlds/aerdth/galimas/culture
+grand_parent: Aerdth
+parent: Galimas
+has_children: False
+nav_exclude: True
+---
 # Government of the Empire of Galimas
 
 ## **Central Structure**
