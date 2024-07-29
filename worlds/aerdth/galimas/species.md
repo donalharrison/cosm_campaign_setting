@@ -1,12 +1,16 @@
 ---
 layout: page
 title: Culture
-permalink: /worlds/aerdth/galimas/species
+permalink: /worlds/aerdth/galimas/species/
 grand_parent: Aerdth
 parent: Galimas
 has_children: False
 nav_exclude: True
 ---
+
+![rmp](/assets/img/her_stormcrow.png)
+
+
 ### Species and Their Communities in Galimas
 
 #### **Dwarves**
