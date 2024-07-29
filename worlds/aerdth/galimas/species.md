@@ -8,7 +8,7 @@ has_children: False
 nav_exclude: True
 ---
 
-![rmp](/assets/img/her_stormcrow.png)
+![rmp](/cosm_campaign_setting/assets/img/her_stormcrow.png)
 
 
 ### Species and Their Communities in Galimas
