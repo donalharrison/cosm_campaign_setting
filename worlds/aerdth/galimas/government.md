@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Culture
-permalink: /worlds/aerdth/galimas/culture
-grand_parent: Aerdth
-parent: Galimas
+permalink: /worlds/aerdth/galimas/govt
+# grand_parent: Aerdth
+# parent: Galimas
 has_children: False
 nav_exclude: True
 ---
