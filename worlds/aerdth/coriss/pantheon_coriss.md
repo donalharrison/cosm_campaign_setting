@@ -1,3 +1,13 @@
+---
+layout: page
+title: The Corissian Pantheon
+permalink: /worlds/aerdth/coriss/pantheon
+grandparent: Aerdth
+parent: Coriss
+has_children: false
+nav_order: 1
+---
+
 | Deity | Ideal | Adhonian Analog | Adhonian Ideal |
 | --- | --- | --- | --- |
 | Corso | Service, Oaths, the Sky, Peace, Duty | Ismjir | Oaths, the Sky, Hard Won Peace |

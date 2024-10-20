@@ -1,4 +1,12 @@
-# 
+---
+layout: page
+title: Kemreit
+permalink: /worlds/aerdth/kemreit/
+grandparent: Worlds Known
+parent: Aerdth
+has_children: true
+---
+
 
 ## Kemreit
 

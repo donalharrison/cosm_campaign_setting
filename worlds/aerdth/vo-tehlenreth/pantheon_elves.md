@@ -1,3 +1,11 @@
+---
+layout: page
+title: The Ten Forms
+permalink: /worlds/aerdth/elves/pantheon
+grandparent: Aerdth
+parent: Elves
+has_children: true
+---
 
 # The Ten Forms
 

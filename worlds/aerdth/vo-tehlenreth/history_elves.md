@@ -1,3 +1,14 @@
+---
+layout: page
+title: Elven Hsitory
+permalink: /worlds/aerdth/elves/history/
+grandparent: Aerdth
+parent: The Elven Empire
+has_children: true
+nav_order: 1
+---
+
+
 In those days, the elves fostered amicable relations with most mortal races. As intrepid explorers and dedicated professors, they shared the vast knowledge they had accumulated with other civilizations they deemed less fortunate. The elves sought teachings from races who had mastered lore and methods foreign to their own, engaging in cultural exchanges that deepened the understanding between different societies.
 
 When Erulen, the revered first Master of Forms, resolved to transcend beyond the material plane, she envisioned a system to ensure the continuity of wise leadership among the elves. She set forth the means to determine her successor and all those who would lead the elves in the future. This process of becoming Turu Len, a Master of Forms, involved an aspirant attaining mastery in three of the Ten Forms, much like Erulen herself had achieved. The Ten Forms encompassed a diverse array of disciplines, including martial arts, elemental manipulation, healing arts, celestial divination, and more. Each Form represented a profound aspect of elven culture and heritage, and the mastery of three was a testament to an elf's dedication and understanding of their people's legacy.

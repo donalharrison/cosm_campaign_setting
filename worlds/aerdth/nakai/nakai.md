@@ -1,3 +1,17 @@
+---
+layout: page
+title: The Azurite Empire
+permalink: /worlds/aerdth/nakai/
+grandparent: Worlds Known
+parent: Aerdth
+has_children: true
+nav_order: 1
+---
+
+# Nakai
+
+## The Azurite Empire
+
 Far east realm consisting of the two island continents of Nota and Janshir. In the Age of Severance, they were once one nation, but through meddlesome pacts with the Hellplanes, their homelands were torn apart.
 They now practice a philosophy of mastering six core values, three of body three of mind, believing this is the only way to true enlightenment. Without constant practice in honing these tenets, you are doomed to face the same horrors your ancestors wrought. To build greatness and command of the physical and mental domains, you are prepared for the inevitable return of the Jigoma (Hell Lords). Depictions of devils and demons feature heavily in their mons and ceremonial practices as a reminder of the ever-looming threats from beyond the material plane. The Empire stands ready to take up arms against their ancestral nemeses when they once again move to despoil the world.
 

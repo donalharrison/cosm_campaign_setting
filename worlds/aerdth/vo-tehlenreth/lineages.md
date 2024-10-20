@@ -1,3 +1,13 @@
+---
+layout: page
+title: The Great Lineages of Elfkind
+permalink: /worlds/aerdth/elves/lineages/
+grandparent: Aerdth
+parent: The Elven Empire
+has_children: true
+nav_order: 1
+---
+
 Each elven subrace embodies unique strengths, cultural practices, and ways of life, contributing to the diverse tapestry of elven civilization and enriching the world of Aerdth with their distinct talents and perspectives.
 
 ## Vallinde (High Elf)
