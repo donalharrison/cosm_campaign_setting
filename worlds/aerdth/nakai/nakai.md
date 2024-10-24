@@ -12,10 +12,11 @@ nav_order: 1
 
 ## The Azurite Empire
 
-Far east realm consisting of the two island continents of Nota and Janshir. In the Age of Severance, they were once one nation, but through meddlesome pacts with the Hellplanes, their homelands were torn apart.
-They now practice a philosophy of mastering six core values, three of body three of mind, believing this is the only way to true enlightenment. Without constant practice in honing these tenets, you are doomed to face the same horrors your ancestors wrought. To build greatness and command of the physical and mental domains, you are prepared for the inevitable return of the Jigoma (Hell Lords). Depictions of devils and demons feature heavily in their mons and ceremonial practices as a reminder of the ever-looming threats from beyond the material plane. The Empire stands ready to take up arms against their ancestral nemeses when they once again move to despoil the world.
+The far east realm consisting of the two island continents of Nota and Janshir. Once a single nation united in one land, their meddlesome pacts with the Hellplanes in the Age of Severance resulted in Nakai's homelands being torn  in two.
 
-Imperial rule is determined by candidates who possess talents in specific tenets (i.e., ability scores).  Imperially recognized marriages are arranged according to complimentary strengths, most notably among the Emperor and Empress.  If a great warleader aspires to the throne, only a mate of suitable mental acuity can be courted.
+In the current age, Nakaian's practice a philosophy of mastering six core values, three of body three of mind, believing this is the only way to true enlightenment. Without constant practice in honing these tenets, you are doomed to face the same horrors your ancestors wrought. To build greatness and command of the physical and mental domains, you are prepared for the inevitable return of the Jigoma (Hell Lords). Depictions of devils and demons feature heavily in their mons and ceremonial practices as a reminder of the ever-looming threats from beyond the material plane. The Empire stands ready to take up arms against their ancestral nemeses when they once again move to despoil the world.
+
+Imperial rule is determined by candidates who possess talents in these core values.  Imperially recognized marriages are arranged according to complimentary strengths, most notably among the Emperor and Empress.  If a great warleader aspires to the throne, only a mate of suitable mental acuity can be courted.
 
 The chief deity is an ancient emperor whose legend says he possessed mastery of all six domains, allowing both strength in conquest and acuity in peacetimes.  His complete enlightenment meant he sought no mate, nor did he require one, but this resulted in his line ending upon death.
 

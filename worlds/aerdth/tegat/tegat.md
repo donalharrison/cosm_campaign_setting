@@ -1,7 +1,7 @@
 ---
 layout: page
-title: The Elven Empire
-permalink: /worlds/aerdth/elves/
+title: Tegat
+permalink: /worlds/aerdth/tegat/
 grandparent: Worlds Known
 parent: Aerdth
 has_children: true
