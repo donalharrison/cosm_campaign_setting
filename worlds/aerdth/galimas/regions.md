@@ -24,7 +24,7 @@ nav_order: 1
 
 #### **Central Plains**
 - **Description:** The heartland of the empire, characterized by vast, fertile plains and gently rolling hills. This region is the agricultural breadbasket of Galimas, producing abundant crops and livestock.
-- **Major City:** **Astyra** (Capital City)
+- **Major City:** **Astyra** (Capital City), **Velyhomme**
   - **Features:** The Imperial Palace, the Tower of Prophecy, the Grand Imperial College, the Library of Velya
   - **Geography:** Fertile farmlands, meandering rivers, and scattered woodlands.
 - **Economy:** Predominantly agricultural, with major production of grains, vegetables, and livestock.

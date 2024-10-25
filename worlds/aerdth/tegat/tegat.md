@@ -1,7 +1,11 @@
 ---
 layout: page
 title: Tegat
+<<<<<<< HEAD
 permalink: /worlds/aerdth/elves/
+=======
+permalink: /worlds/aerdth/tegat/
+>>>>>>> 968a181903d14ce5b0c73532cbff496ab68a8dab
 grandparent: Worlds Known
 parent: Aerdth
 has_children: true
