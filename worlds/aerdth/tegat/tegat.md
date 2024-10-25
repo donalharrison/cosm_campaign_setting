@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Elven Empire
+title: Tegat
 permalink: /worlds/aerdth/elves/
 grandparent: Worlds Known
 parent: Aerdth
